@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1481272140 source:c:\users\abdel\desktop\esilv s7\advanced data structure and algorithmes\final\gazon_sabry_probleme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Header.h"
+
+1481271607 c:\users\abdel\desktop\esilv s7\advanced data structure and algorithmes\final\gazon_sabry_probleme\header.h
+
+1481279510 source:c:\users\user\documents\esilv\semestre 7\advanced data structures and algorithms\cours\cours 9-10\gazon_sabry_probleme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Header.h"
+
+1481279510 c:\users\user\documents\esilv\semestre 7\advanced data structures and algorithms\cours\cours 9-10\gazon_sabry_probleme\header.h
+
+1481318767 source:c:\users\abdel\desktop\gazon_sabry_probleme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Header.h"
+
+1481316554 c:\users\abdel\desktop\gazon_sabry_probleme\header.h
+
